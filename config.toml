@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "mikejsoh"
+theme = "hyde"
+
+[Menus]
+  main = [
+    {Name = "Github", URL = "https://github.com/mikejsoh/"},
+    {Name = "LinkedIn", URL = "https://linkedin.com/in/mikejsoh/"}
+]
